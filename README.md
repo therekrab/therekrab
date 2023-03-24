@@ -1,1 +1,1 @@
-Current freahman at North Farmington High School.
+Current student at North Farmington High School. Class of 2026. 
