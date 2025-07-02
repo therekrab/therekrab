@@ -6,7 +6,7 @@ I'm Nolan Barker, a programmer based in Farmington Hills, MI.
 I've been enjoying using computers to solve problems with code for nearly a decade now.
 I lead the programming team of FRC team
 [3414 (Hackbots)](https://www.fpsrobotics.com),
-where I was a 2025 Dean's List Semi-Finalist!
+where I was nomitated for Dean's list in 2025!
 
 I'm currently enrolled at North Farmington High School, class of 2026.
 
