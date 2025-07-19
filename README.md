@@ -28,6 +28,7 @@ I've (technically) made contributions to open-source libraries like WPILib, but 
 Some of the fun problems I've solved with code include:
 * A very fast spellchecker, built in rust
 * E2EE chat server built in Go with TUI interface
+* Autopilot, a real-time pursuit algorithm for FRC teams.
 * More to come!
 
 Check out my repos for more cool projects.
