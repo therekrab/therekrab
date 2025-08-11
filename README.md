@@ -29,6 +29,7 @@ Some of the fun problems I've solved with code include:
 * A very fast spellchecker, built in rust
 * E2EE chat server built in Go with TUI interface
 * Autopilot, a real-time pursuit algorithm for FRC teams.
+* CLI tool to generate PathPlanner autonomous routines from a small scripting language
 * More to come!
 
 Check out my repos for more cool projects.
